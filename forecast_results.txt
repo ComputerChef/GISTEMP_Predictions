@@ -1,1 +1,2 @@
-Updated forecast data for today
+Forecast for 2024-09-01: 1.2476531056790425
+MAE: 0.08395383144723197
